@@ -26,10 +26,11 @@ C'est fait ! le(s) dossier(s) sont copier sur votre machine.
 - **Je referme et j'étiquette mon carton**, j'associe un message à mon commit
 `git commit -m "Modification du CSS"`
 
-> :warning: Si vous avez un message d'erreur après un commit du genre `fatal: unable to auto-detect email address (got 'student@teleporter.(none)')`  
-Faire les 2 commandes suivantes : 
-`git config --global user.email "VOTREEMAIL@example.com"`
-`git config --global user.name "VOTRE NOM"`
+> :warning: **Si vous avez un message d'erreur après un commit du genre**  
+`fatal: unable to auto-detect email address (got 'student@teleporter.(none)')`    
+**Faire les 2 commandes suivantes :**   
+`git config --global user.email "VOTREEMAIL@example.com"`  
+`git config --global user.name "VOTRE NOM"`  
 
 - **J'expédie mon carton vers github**, j'envoie mon commit sur github
 `git push`
