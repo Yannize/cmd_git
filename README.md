@@ -1,4 +1,4 @@
-# **Commandes Git** vuent jusqu'à aujourd'hui :  
+# **Commandes Git** vues jusqu'à aujourd'hui :  
 
 ## Cloner un dépo
 
