@@ -16,7 +16,10 @@ C'est fait ! le(s) dossier(s) sont copier sur votre machine.
 
 ***
 
-## Pour commiter et pusher
+## Pour commiter et pusher sur le dépo cloné
+ 
+
+>:warning: toutes ces manip's sont à faire depuis le fichier clôné qui lors du clonage à été automatiquement lié avec le dépo créé lorsqu'on accepte le challenge
 - Je rempli mon carton, je précise les fichiers à commiter
 `git add .`
 
